@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "7032863d-af94-43f9-a81a-5657bfc32698",
+    "appKeys": {},
+    "longName": "HelloPebbleC",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "HelloPebbleC",
+    "companyName": "cvolny@gmail.com",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
